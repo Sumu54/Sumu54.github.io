@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Sumedha Dahal"
 title_separator          : "-"
 name                     : &name "Sumedha Dahal"
-description              : &description "Research Scientist"
+description              : &description "Research Scholar"
 url                      : https://sumu54.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sumu54/sumu54.github.io"
@@ -25,18 +25,18 @@ author:
   avatar           : "profile.png"
   name             : "Sumedha Dahal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Scholar at Memorial Sloan Kettering Cancer Center"
   location         : "New York, USA"
   employer         : "Memorial Sloan Kettering"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.mskcc.org/research/ski/labs/members/sumedha-dahal"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zSO66YwAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sumu54"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
