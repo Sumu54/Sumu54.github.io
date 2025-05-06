@@ -38,11 +38,12 @@ a:active {
   
 <body>
 
-<p align="justify" vspace = "-0px" width="200px"> Hi, Thanks for your interest!</p>
   
-<p align="justify" vspace = "-0px" width="200px"> I am an assistant professor at the <a href="https://cs.uic.edu/">Department of Computer Science</a>, University of Illinois <a href="https://www.uic.edu/">(UIC)</a>, Chicago. I belong to the <a href="https://cstheory.lab.uic.edu/">UIC CS Theory</a> group, and a member of the <a href="https://www.ideal-institute.org">IDEAL</a> Institute. Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research</a> (NYC) and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> (In), <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria</a> (Paris), and <a href="https://ai.google/">Google AI </a>(MTV).</p>   
+<p align="justify" vspace = "-0px" width="200px"> I am xx at the <a href="https://cs.uic.edu/">Department of </a>, University  <a href="https://www.uic.edu/">(UIC)</a>. I belong to the <a href="https://cstheory.lab.uic.edu/">UIC CS Theory</a> group, and a member of the <a href="https://www.ideal-institute.org">IDEAL</a> Institute.
+  
+  Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research</a> (NYC) and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> (In), <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria</a> (Paris), and <a href="https://ai.google/">Google AI </a>(MTV).
+  </p>   
 
-<!-- and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a> -->
 
 <font color="SteelBlue">Main Research Focus:</font> AI-Alignment with RLHF. 
 <br>
