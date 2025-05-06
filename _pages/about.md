@@ -1,49 +1,98 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<html>
+<head>
+<style>
+a:link {
+  color: RoyalBlue;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+a:visited {
+  color: Purple;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+a:hover {
+  color: RoyalBlue;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+a:active {
+  color: DarkRed;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>  
+</head>  
+  
+<body>
+  
+<p align="justify" vspace = "-0px" width="200px"> I am an xx at the <a href="https://cs.uic.edu/">Department of </a>, University  <a href="https://www.uic.edu/">(UIC)</a>, Chicago. I belong to the <a href="https://cstheory.lab.uic.edu/">UIC CS Theory</a> group, and a member of the <a href="https://www.ideal-institute.org">IDEAL</a> Institute. Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research</a> (NYC) and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> (In), <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria</a> (Paris), and <a href="https://ai.google/">Google AI </a>(MTV).</p>   
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a> -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<font color="SteelBlue">Main Research Focus:</font> AI-Alignment with RLHF. 
+<br>
+<font color="SteelBlue">Research Areas:</font> Machine Learning (esp. Online Learning theory, Bandits, Reinforcement Learning), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
 
-**Markdown generator**
+<br><br>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<details>
+<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
+<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
+ <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
+   
+<br> <br>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
+</span>
+</details>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<br>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!-- <details>
+<summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
+<p align="justify">Sumedha Dahal is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
+    <br>
+Her primary research focuses on AI alignment through Reinforcement Learning with Human Feedback (RLHF), with applications in language models, assistive robotics, autonomous systems, and personalized AI. More broadly, she works on Machine Learning theory, including online learning, multi-armed bandits, reinforcement learning, optimization, federated learning, differential privacy, and mechanism design. Her research aims to develop robust and scalable AI models for sequential decision-making under uncertain and partial feedback.    
+    <br>
+Sumedha has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. In addition, Sumedha has also served in several **panel discussions and senior reviewing committees** for major Machine Learning conferences. </p>
+</details>
+
+She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View. <a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/Sumedha-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023) -->
+
+<a href="https://Sumedha.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://Sumedha.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_Sumedha/0/1/0/all/0/1" target="_blank">[arXiv]</a>
+
+
+
+<h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
+
+<ul style="margin:1;padding:1" vspace = "-0px">
+  <li>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> title</a>
+  <br>  author
+  <br> International Conference on Learning Representations (ICLR), 2025   
+  </li>
+
+
+<hr style="color:black;"> 
+ 
+ 
+</body>
+</html>
+
+<!--Email: firstname.lastname @ microsoft.com-->
