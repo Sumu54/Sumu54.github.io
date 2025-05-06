@@ -78,9 +78,9 @@ She has also interned at Microsoft -->
 
 <a href="https://Sumu54.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://Sumu54.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
-<a href="[https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en](https://scholar.google.com/citations?user=zSO66YwAAAAJ&hl=en)" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="[https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en]([https://scholar.google.com/citations?user=zSO66YwAAAAJ&hl=en](https://scholar.google.com/citations?user=zSO66YwAAAAJ&hl=en))" target="_blank">[Google Scholar]</a> &nbsp;
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+Dahal_Sumedha/0/1/0/all/0/1" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org" target="_blank">[arXiv]</a>
 
 <br><br>
 
