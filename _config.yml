@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sumedha Dahal"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sumedha Dahal"
 description              : &description "Research Scholar"
@@ -26,7 +26,7 @@ author:
   name             : "Sumedha Dahal"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar at Memorial Sloan Kettering Cancer Center"
-  location         : "New York, USA"
+  location         : "Manhattan, New York, USA"
   employer         : "Memorial Sloan Kettering"
   uri              : # URL
   email            : "none@example.org" 
