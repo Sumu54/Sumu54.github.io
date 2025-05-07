@@ -46,7 +46,7 @@ Currently, I am a Research Associate at the <a href="https://www.mskcc.org/resea
 
 My research expertise spans gene cloning, protein purification, chromatin immunoprecipitation (ChIP), and advanced biochemical assays for DNA repair and replication. I am particularly passionate about understanding how non-B DNA structures such as G-quadruplexes influence genomic stability and contribute to disease.
 
-I have authored several peer-reviewed publications in journals like *eLife*, *The FEBS Journal*, *iScience*, and *Journal of Biological Chemistry*, and have presented at leading conferences including the ASCB-EMBO Meeting. I aim to bridge fundamental research in genome biology with translational insights into disease mechanisms.
+I have authored several peer-reviewed publications in journals like <a href="https://www.sciencedirect.com/science/article/pii/S2589004219311985" target="_blank">iScience</a>, <a href="https://elifesciences.org/articles/69916" target="_blank">eLife</a>, <a href="https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.15799" target="_blank">The FEBS Journal</a>, and <a href="https://www.sciencedirect.com/science/article/pii/S0021925823009347" target="_blank">Journal of Biological Chemistry</a>, and have presented at leading conferences including the ASCB-EMBO Meeting. I aim to bridge fundamental research in genome biology with translational insights into disease mechanisms.
 </p>
 
 <font color="SteelBlue">Main Research Focus:</font> Genome Stability, DNA Repair, Mitochondrial Biology  
