@@ -39,22 +39,25 @@ a:active {
 <body>
 
   
-<p align="justify" vspace = "-0px" width="200px"> I am xx at the <a href="https://cs.uic.edu/">Department of </a>, University  <a href="https://www.uic.edu/">(UIC)</a>. I belong to the <a href="https://cstheory.lab.uic.edu/">UIC CS Theory</a> group, and a member of the <a href="https://www.ideal-institute.org">IDEAL</a> Institute.
-  
-  Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research</a> (NYC) and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> (In), <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria</a> (Paris), and <a href="https://ai.google/">Google AI </a>(MTV).
-  </p>   
+<p align="justify">
+I am a molecular biologist with a Ph.D. in Biochemistry and over four years of postdoctoral research experience in genome stability, DNA repair, and mitochondrial biology. Currently, I work as a Research Associate at Memorial Sloan Kettering Cancer Center in New York, where I focus on the biochemical and structural characterization of DNA-protein interactions involved in genome maintenance.
 
+My research journey began with a Ph.D. at the Indian Institute of Science, Bangalore, where I investigated the mechanisms of double-strand break repair and genome fragility in mammalian mitochondria. Since then, my work has expanded to include chromatin immunoprecipitation, protein purification, replication reconstitution, and mammalian cell culture techniques. I am particularly passionate about exploring how DNA structures like G-quadruplexes influence genome stability.
 
-<font color="SteelBlue">Main Research Focus:</font> AI-Alignment with RLHF. 
+I have published extensively in high-impact journals including *Cell Molecular Life Sciences*, *The FEBS Journal*, *eLife*, and *Journal of Biological Chemistry*. I also enjoy scientific communication and collaboration, having presented at international conferences such as ASCB-EMBO in San Diego. My long-term goal is to contribute to translational research that connects molecular mechanisms to therapeutic advances in genome biology.
+</p>
+
+<font color="SteelBlue">Main Research Focus:</font> Genome Stability, DNA Repair, Mitochondrial Biology  
 <br>
-<font color="SteelBlue">Research Areas:</font> Machine Learning 
+<font color="SteelBlue">Research Skills:</font> Protein Purification, ChIP, Gene Cloning, Cell Culture, DNA Replication Assays  
+
 <br><br>
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
  <p align="justify"> 
-   My primary research focuses on developing. 
+   My primary research focus is on molecular biology.
    
 <br> <br>
 
