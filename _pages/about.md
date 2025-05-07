@@ -40,11 +40,13 @@ a:active {
 
   
 <p align="justify">
-I am a molecular biologist with a Ph.D. in Biochemistry and over four years of postdoctoral research experience in genome stability, DNA repair, and mitochondrial biology. Currently, I work as a Research Associate at Memorial Sloan Kettering Cancer Center in New York, where I focus on the biochemical and structural characterization of DNA-protein interactions involved in genome maintenance.
+I am a molecular biologist with a Ph.D. in Biochemistry from the <a href="https://biochem.iisc.ac.in/sathees-c-raghavan.php" target="_blank">Indian Institute of Science</a>, where I worked under the guidance of <a href="https://satheesscrlab10.wixsite.com/website" target="_blank">Prof. Sathees C. Raghavan</a>. My doctoral work focused on the mechanisms of double-strand break repair and genome fragility in mammalian mitochondria.
 
-My research journey began with a Ph.D. at the Indian Institute of Science, Bangalore, where I investigated the mechanisms of double-strand break repair and genome fragility in mammalian mitochondria. Since then, my work has expanded to include chromatin immunoprecipitation, protein purification, replication reconstitution, and mammalian cell culture techniques. I am particularly passionate about exploring how DNA structures like G-quadruplexes influence genome stability.
+Currently, I am a Research Associate at the <a href="https://www.mskcc.org/research/ski/labs/members/sumedha-dahal" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York, in the laboratory of <a href="https://www.mskcc.org/research/ski/labs/dirk-remus" target="_blank">Dr. Dirk Remus</a>. My postdoctoral research involves dissecting the biochemical and structural basis of DNA replication and genome maintenance.
 
-I have published extensively in high-impact journals including *Cell Molecular Life Sciences*, *The FEBS Journal*, *eLife*, and *Journal of Biological Chemistry*. I also enjoy scientific communication and collaboration, having presented at international conferences such as ASCB-EMBO in San Diego. My long-term goal is to contribute to translational research that connects molecular mechanisms to therapeutic advances in genome biology.
+My research expertise spans gene cloning, protein purification, chromatin immunoprecipitation (ChIP), and advanced biochemical assays for DNA repair and replication. I am particularly passionate about understanding how non-B DNA structures such as G-quadruplexes influence genomic stability and contribute to disease.
+
+I have authored several peer-reviewed publications in journals like *eLife*, *The FEBS Journal*, *iScience*, and *Journal of Biological Chemistry*, and have presented at leading conferences including the ASCB-EMBO Meeting. I aim to bridge fundamental research in genome biology with translational insights into disease mechanisms.
 </p>
 
 <font color="SteelBlue">Main Research Focus:</font> Genome Stability, DNA Repair, Mitochondrial Biology  
