@@ -209,6 +209,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /workshops/:title/
 
 
 # These settings control how pages and collections are included in the site
