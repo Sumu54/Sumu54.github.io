@@ -73,7 +73,7 @@ Publications
 
 <ul>
   {% for post in site.workshops reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-workshops.html %}
   {% endfor %}
 </ul>
   
