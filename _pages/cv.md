@@ -69,10 +69,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Workshops
-======
-  <ul>{% for post in site.workshops reversed %}
-    {% include archive-single-workshop.html  %}
-  {% endfor %}</ul>
+## Workshops
+
+<ul>
+  {% for post in site.workshops reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
   
 
