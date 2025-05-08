@@ -71,10 +71,7 @@ Publications
   
 ## Workshops
 
-<ul>
-  {% for post in site.workshops reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
+{% include workshops-section.md %}
+
   
 
