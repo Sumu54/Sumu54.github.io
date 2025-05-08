@@ -68,18 +68,38 @@ I have authored several peer-reviewed publications in journals like <a href="htt
 
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
-<ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red">My paper title</a>
-  <br>  Sumedha Dahal
-  <br> Journal and edition  
+<ul style="margin:1;padding:1" vspace="-0px">
+  <li>
+    <a href="https://link.springer.com/article/10.1007/s00018-018-2762-7" target="_blank">Homologous recombination-mediated repair of DNA double-strand breaks operates in mammalian mitochondria</a>
+    <br> Dahal, S., Dubey, S., & Raghavan, S.C.
+    <br> Cellular and Molecular Life Sciences (2018)
   </li>
-                                                    
 
-  <li>  <a href="http://proceedings.mlr.press/v98/Dahal19a.html" target="_blank"> PAC Battling Bandits in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
-  <br>  Sumedha Dahal
-  <br> Journal
+  <li>
+    <a href="https://www.cell.com/iscience/fulltext/S2589-0042(19)30266-2" target="_blank">G-quadruplex Structures Contribute to Differential Radiosensitivity of the Human Genome</a>
+    <br> Kumari, N., Vartak, S.V., Dahal, S., Kumari, S., Desai, S.S., Gopalakrishnan, V., et al.
+    <br> iScience (2019)
+  </li>
+
+  <li>
+    <a href="https://portlandpress.com/biochemj/article/478/6/1179/229089" target="_blank">Mitochondrial genome stability in human: understanding the role of DNA repair pathways</a>
+    <br> Dahal, S., & Raghavan, S.C.
+    <br> Biochemical Journal (2021)
+  </li>
+
+  <li>
+    <a href="https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16136" target="_blank">Characterization of G4 DNA formation in mitochondrial DNA and their potential role in mitochondrial genome instability</a>
+    <br> Dahal, S., Siddiqua, H., Katapadi, V.K., Iyer, D., & Raghavan, S.C.
+    <br> The FEBS Journal (2022)
+  </li>
+
+  <li>
+    <a href="https://elifesciences.org/articles/69916" target="_blank">Unleashing a novel function of endonuclease G in mitochondrial genome instability</a>
+    <br> Dahal, S., Siddiqua, H., Sharma, S., Babu, R.K., Rathore, D., Sharma, S., et al.
+    <br> eLife (2022)
   </li>
 </ul>
+
 
 <hr style="color:black;"> 
  
