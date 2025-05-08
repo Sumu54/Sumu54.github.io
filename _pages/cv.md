@@ -13,10 +13,6 @@ redirect_from:
 **[📄 Click here to download my full CV (PDF)](/files/SumedhaDahal_CV_Scientist.pdf)**
 
 
-<p><a href="/files/SumedhaDahal_CV_Scientist.pdf" target="_blank" class="btn btn--info">📄 Download My CV (PDF)</a></p>
-
-
-
 Education
 ============
 * Ph.D. in Biochemistry, [Indian Institute of Science](https://biochem.iisc.ac.in/sathees-c-raghavan.php), 2020  
