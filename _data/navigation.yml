@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Workshops"
-    url: /workshops/    
-    
-  - title: "Services"
-    url: /services/
+    url: /workshops/ 
+  
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "CV"
     url: /cv/
