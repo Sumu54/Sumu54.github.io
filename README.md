@@ -8,6 +8,7 @@
     + For example to add the tab `Workshops` add a section in `navigation.yml` and create a file in `_pages/workshops.md` and write the contents there.
 - Notes
   + Once we have each markdown files for the publications, the CV can read them automatically using for-loop as given in original template.
+- To update new resume replace the file `files/SumedhaDahal_CV_Scientist.pdf`
 
 # Automatic include multiple markdown files in folder to another file
 - Step 01: Create files like `_myworkshops/date-title.md`
