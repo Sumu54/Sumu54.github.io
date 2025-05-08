@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Download my PDF Resume
+# Download PDF Resume
 **[📄 Click here to download my full CV (PDF)](/files/SumedhaDahal_CV_Scientist.pdf)**
 
 
