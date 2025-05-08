@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Workshops"
 permalink: /workshops/
 author_profile: true
+collection: workshops
 ---
+
 
 <html>
 <head>
