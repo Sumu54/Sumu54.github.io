@@ -58,40 +58,12 @@ I have authored several peer-reviewed publications in journals like <a href="htt
 
 <br><br>
 
-<details>
-<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
-<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
- <p align="justify"> 
-   My primary research focus is on molecular biology.
-   
-<br> <br>
-
-Extra description
-</p> 
-</span>
-</details>
-
-<br>
-
-<!-- <details>
-<summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
-<p align="justify">Sumedha Dahal is an in the Department of  at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
-    <br>
-Her primary research focuses on AI alignment.    
-    <br>
-Sumedha has organized several workshops and tutorials in recent years. In addition, Sumedha has also served in several **panel discussions and senior reviewing committees** for major Machine Learning conferences. </p>
-</details>
-
-She has also interned at Microsoft -->
-
 <a href="https://Sumu54.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://Sumu54.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
 <a href="https://scholar.google.com/citations?user=zSO66YwAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
-<a href="https://arxiv.org" target="_blank">[arXiv]</a>
+<a href="https://www.researchgate.net/profile/Sumedha-Dahal-2" target="_blank">[ResearchGate]</a>
 
 <br><br>
-
 
 
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
