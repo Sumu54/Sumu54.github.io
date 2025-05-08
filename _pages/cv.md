@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Download my PDF Resume
+<p><a href="/files/SumedhaDahal_CV_Scientist.pdf" target="_blank" class="btn btn--info">📄 Download My CV (PDF)</a></p>
+
+
 
 Education
 ============
