@@ -32,13 +32,10 @@ a:active {
 
 <body>
 
-<h2>Contact</h2>
-
 <p>
   <strong>Sumedha Dahal, PhD</strong><br>
   New York City, New York, NY 10044<br>
   Email: dahalsumedha@gmail.com<br>
-  Phone: 929-328-8721
 </p>
 
 
