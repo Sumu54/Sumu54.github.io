@@ -26,12 +26,12 @@ Work Experience
 * 2021–Present: Research Associate  
   * [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski/labs/members/sumedha-dahal), New York  
   * Supervisor: [Dr. Dirk Remus](https://www.mskcc.org/research/ski/labs/dirk-remus)  
-  * Duties include: Biochemical reconstitution of DNA replication, protein purification, DNA structure studies (G-quadruplexes), chromatin immunoprecipitation (ChIP), and mass spectrometry sample prep  
+  * Duties include: Biochemical reconstitution of DNA replication, chromatography techniques, protein purification from bacterial, yeast and insect cells, gene cloning, and  DNA structure studies (R-loops)   
 
 * 2019–2021: Research Associate  
   * [Indian Institute of Science](https://www.iisc.ac.in), Bangalore  
   * Supervisor: [Prof. Sathees C. Raghavan](https://satheesscrlab10.wixsite.com/website)  
-  * Duties included: Functional studies on mitochondrial DNA repair, fluorescence microscopy, gene knockdowns, and subcellular fractionation  
+  * Duties included: Functional studies on DNA repair, chromatin immunoprecipitation (ChIP), mass spectrometry sample prep, fluorescence microscopy, gene knockdowns, and subcellular fractionation, Handling, breeding, and drug administration in mice model 
 
 Skills
 ======
