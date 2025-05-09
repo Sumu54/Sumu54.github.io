@@ -70,6 +70,14 @@ a:active {
   <li>Voluntary teaching to primary and secondary level students (April 2004-June 2004)</li>
   </ul>
 
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
+<h2 style="color:SteelBlue;" vspace="0px;">Judging:</h2>
+<ul style="margin:1;padding:1">
+  <li>
+    Poster judge for <a href="https://hunter.cuny.edu/student-engagement-initiatives/undergraduate-research-conference/" target="_blank">Hunter Undergraduate Research Conference</a> (April 30, 2025)
+  </li>
+</ul>
+
     
 </body>
 </html>
