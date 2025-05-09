@@ -40,9 +40,16 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Journal Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li> Paper title (TMLR), 2024</li>
-
-</ul>   
+  <li>Scientific Reports (Since 2017)</li>
+  <li>BMC Cancer (Since 2021)</li>
+  <li>BMC Cell and Molecular Biology (Since 2022)</li>
+  <li>Disease Markers (Since 2023)</li>
+  <li>Cancer (Since 2023)</li>
+  <li>Genes (Since 2023)</li>
+  <li>Cell Biology International (Since 2023)</li>
+  <li>Open Biology (Since 2024)</li>
+</ul>
+   
 
     
 </body>
