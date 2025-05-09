@@ -48,7 +48,8 @@ a:active {
 <ul>
   <li><strong>Postdoctoral Research:</strong> <a href="https://www.mskcc.org/research/ski/labs/members/sumedha-dahal" target="_blank">Memorial Sloan Kettering Cancer Center</a></li>
   <li><strong>Ph.D.:</strong> <a href="https://www.iisc.ac.in/" target="_blank">Indian Institute of Science (IISc), Bangalore</a></li>
-  <li><strong>M.Sc.:</strong> <a href="https://tribhuvan-university.edu.np/" target="_blank">Tribhuvan University, Nepal</a></li>
+  <li><strong>M.Sc.:</strong> <a href="https://bangaloreuniversity.karnataka.gov.in/" target="_blank">Bangalore University, India</a></li>
+  <li><strong>M.Sc.:</strong> <a href="https://purbanchaluniversity.edu.np/" target="_blank">Purbanhal University, Nepal</a></li>
 </ul>
 
 <hr>
