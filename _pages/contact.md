@@ -34,10 +34,13 @@ a:active {
 
 <h2>Contact</h2>
 
-<p><strong>Name:</strong> Sumedha Dahal</p>
-<p><strong>Position:</strong> Research Scholar</p>
-<p><strong>Affiliation:</strong> <a href="https://www.mskcc.org/research/ski" target="_blank">Memorial Sloan Kettering Cancer Center</a></p>
-<p><strong>Location:</strong> New York City, New York, NY 10044</p>
+<p>
+  <strong>Sumedha Dahal, PhD</strong><br>
+  New York City, New York, NY 10044<br>
+  Email: dahalsumedha@gmail.com<br>
+  Phone: 929-328-8721
+</p>
+
 
 <hr>
 
