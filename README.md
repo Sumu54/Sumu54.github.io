@@ -2,6 +2,7 @@
 - [Website](https://Sumu54.github.io/)
 
 # Website Edits
+- About yourself (Homepage): `_pages/about.md`
 - Profile Photo: `images/profile.png` which is included as author avatar in `_config.yml`.
 - Settings: `_config.yml`
 - Select Website Tabs: `_data/navigation.yml`
