@@ -13,9 +13,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sumedha Dahal"
 description              : &description "Research Scholar"
-url                      : https://sumu54.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://sumedha-dahal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sumu54/sumu54.github.io"
+repository               : "sumedha-dahal/sumedha-dahal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Research Scholar at Memorial Sloan Kettering Cancer Center"
   location         : "New York City, USA"
   employer         : "Memorial Sloan Kettering"
-  uri              : "https://sumu54.github.io/"
+  uri              : "https://sumedha-dahal.github.io/"
   email            :  # "dahalsumedha@gmail.com"
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "sumu54"
+  github           : # "sumedha-dahal"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : sumedha-dahal-8b08b261
+  linkedin         : sumedha-dahal
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
