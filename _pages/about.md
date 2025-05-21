@@ -39,7 +39,7 @@ a:active {
 <body>
 
 <marquee style='width: 30%; color: rgb(224, 221, 20);'><b>Sumedha Dahal</b></marquee>
-<br></br>
+
   
 <p align="justify">
 I am a molecular biologist with a Ph.D. in Biochemistry from the <a href="https://biochem.iisc.ac.in/sathees-c-raghavan.php" target="_blank">Indian Institute of Science</a>, where I worked under the guidance of <a href="https://satheesscrlab10.wixsite.com/website" target="_blank">Prof. Sathees C. Raghavan</a>. My doctoral work focused on the mechanisms of double-strand break repair and genome fragility in mammalian mitochondria.
