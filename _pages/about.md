@@ -38,7 +38,7 @@ a:active {
   
 <body>
 
-<marquee style='width: 30%; color: rgb(224, 221, 20);'><b>Sumedha Dahal</b></marquee>
+<marquee style='width: 30%; color: rgb(224, 221, 20);'><b>Sumedha Dahal, PhD, Molecular Biologist</b></marquee>
 
   
 <p align="justify">
